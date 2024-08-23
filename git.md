@@ -87,6 +87,10 @@ git tag <nameOfTag> (tag your commits)
 git tag --list (list all your tags)
 git show <nameOfTag> (show all details)
 
+JS
+pass by value --> primative (variables point to a new create/copied data space)
+pass by reference --> object (variables point to the same data space)
+
 Backend and frontend both different folder
 
 backend MVC express node ()
@@ -99,6 +103,20 @@ with assignemnt 1 solid can easily go to assisgnment 2 there need to have a big 
 4. dont assume your knowlegde is right
 5. assisgnment 2 is access control with what user can do and see
 6. standadise http code
+
+i think can prepare someone to write notes
+what is the charteristic api --> stateless etc
+how many ways to implement mircoservices
+he drill alot on theories also, like why use this in this achitecture
+grpc? api vs gprc vs graphql
+why use post/patch etc in documentation security issue? partial resources? post in sementics?
+finding need share in a group, see team as one
+miro.com --> documentation
+datashown also need to be consistent across everyone.
+follow step by step from the repairement pdf
+1 and 2 dunnno
+3 and 4 focus on documentation
+update env file for docker stage, its for security next time
 
 
 
